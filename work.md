@@ -4,6 +4,6 @@
 - [Projects](work.md)
 - [Portfolio](https://www.behance.net/huphup)
 
-##Project 1
+<h2>Project 1</h2>
 
-###Project 2
+<h3>Project 2</h3>
